@@ -1,1 +1,4 @@
 # phase-1
+PROJECT OVERVIEW
+
+OUR GOALS:
